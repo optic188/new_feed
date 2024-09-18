@@ -39,7 +39,7 @@ const Home  = async () => {
                                   priority
                               />
                               <div className="flex-1">
-                                  <h2 className="text-2xl font-bold">{article.title}</h2>
+                                  <h2 className="text-2xl text-gray-700">{article.title}</h2>
                                   <p className="mt-2 text-gray-700">{article.short_article}</p>
                               </div>
                           </div>
