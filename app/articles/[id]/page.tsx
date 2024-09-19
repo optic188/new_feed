@@ -1,17 +1,17 @@
 import Image from "next/image";
 import fs from 'fs';
 import path from 'path';
-import { Article } from '../../page';
+import { Article } from '@/app/page';
 
-const getArticleById = async (id: string): Promise<Article | undefined>  => {
-    const filePath = path.join(process.cwd(), 'app', 'data', 'mocked-data.json');
+const getArticleById = async (id: string,language:string ): Promise<Article>  => {
+    const filePath = path.join(process.cwd(), 'data', `mocked-data-${language}.json`);
     const jsonData = fs.readFileSync(filePath, 'utf-8');
     const articles: Article[] = JSON.parse(jsonData);
     return articles.find((article) => article.id === id);
 }
 
-export default async function ArticlePage({ params }: { params: { id: string } }) {
-    const article = await getArticleById(params.id);
+const ArticlePage = async({ params, searchParams }: { params: { id: string }, searchParams: {language: string} }) =>{
+    const article = await getArticleById(params.id, searchParams.language);
 
     if (!article) {
         return <p>Article not found!</p>;
@@ -31,3 +31,4 @@ export default async function ArticlePage({ params }: { params: { id: string } }
         </div>
     );
 }
+export default  ArticlePage

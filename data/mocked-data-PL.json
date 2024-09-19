@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "Nowa technologia rewolucjonizuje opiekę zdrowotną",
+    "subtitle": "Innowacje oparte na sztucznej inteligencji zmieniają krajobraz medyczny",
+    "image": "https://images.unsplash.com/photo-1723908183237-d8af011f465d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NTUyMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY2ODQyNTh8&ixlib=rb-4.0.3&q=80&w=1080",
+    "short_article": "Przełomowy system oparty na sztucznej inteligencji zmienia sposób świadczenia usług medycznych, oferując szybszą diagnostykę i spersonalizowane leczenie.",
+    "full_article": "Wielki skok w opiece zdrowotnej: opracowano nowy system oparty na sztucznej inteligencji, który rewolucjonizuje sposób diagnozowania i leczenia pacjentów. System wykorzystuje algorytmy głębokiego uczenia do analizy ogromnych ilości danych medycznych, co umożliwia lekarzom podejmowanie szybszych i dokładniejszych decyzji. Eksperci uważają, że ta technologia może znacznie zmniejszyć ryzyko błędów ludzkich, poprawić wyniki leczenia i obniżyć koszty opieki zdrowotnej. Wiele szpitali już wdraża ten system, a wstępne wyniki pokazują znaczną poprawę czasu powrotu do zdrowia pacjentów i ich satysfakcji."
+  },
+  {
+    "id": "2",
+    "title": "Globalne rynki notują rekordowy wzrost",
+    "subtitle": "Gwałtowny wzrost akcji, gdy gospodarki odradzają się po pandemii",
+    "image": "https://images.unsplash.com/photo-1710676827482-6a80b64524e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NTUyMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY2ODQyNTh8&ixlib=rb-4.0.3&q=80&w=1080",
+    "short_article": "Globalne rynki akcji odnotowują bezprecedensowy wzrost, ponieważ gospodarki odbudowują się po pandemii COVID-19, napędzane innowacjami technologicznymi i zaufaniem konsumentów.",
+    "full_article": "W nieoczekiwanym zwrocie wydarzeń globalne rynki odnotowały rekordowy wzrost po pandemii COVID-19. Główne indeksy w USA, Europie i Azji gwałtownie wzrosły, a inwestorzy wykazują zaufanie do postępów technologicznych i rosnących wydatków konsumentów. Analitycy sugerują, że ten wzrost wspierają niskie stopy procentowe i rządowe pakiety stymulacyjne, które umożliwiły firmom rozwój i innowacje. Jednak niektórzy eksperci ostrzegają, że te warunki mogą prowadzić do inflacji lub niestabilności rynku w najbliższej przyszłości."
+  },
+  {
+    "id": "3",
+    "title": "Zmiany klimatyczne: konieczne pilne działania",
+    "subtitle": "Światowi przywódcy wzywają do przyspieszenia wysiłków na rzecz przeciwdziałania globalnemu ociepleniu",
+    "image": "https://images.unsplash.com/photo-1724100688240-5ccaf323f3cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NTUyMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY2ODQyNTh8&ixlib=rb-4.0.3&q=80&w=1080",
+    "short_article": "W obliczu rosnących globalnych temperatur naukowcy i przywódcy światowi wzywają do natychmiastowych działań w celu zwalczania skutków zmian klimatycznych.",
+    "full_article": "Najnowszy raport klimatyczny wywołał ponowne wezwania do pilnych działań na rzecz ograniczenia globalnego ocieplenia. Raport podkreśla niszczycielskie skutki wzrostu temperatur, w tym częstsze klęski żywiołowe, zmiany wzorców pogodowych i zagrożenia dla bioróżnorodności. Światowi przywódcy spotykają się na specjalnym szczycie, aby omówić strategie zmniejszenia emisji dwutlenku węgla i przejścia na odnawialne źródła energii. Wielu uważa, że bez natychmiastowych i ciągłych wysiłków skutki zmian klimatu staną się nieodwracalne, wpływając na przyszłe pokolenia. Skupiono się teraz na globalnych działaniach mających na celu ograniczenie ocieplenia do 1,5 stopnia Celsjusza, zgodnie z porozumieniem paryskim."
+  },
+  {
+    "id": "4",
+    "title": "Przełom w eksploracji kosmosu",
+    "subtitle": "Nowa technologia umożliwia szybsze i bezpieczniejsze podróże kosmiczne",
+    "image": "https://images.unsplash.com/photo-1725020490618-de0219bc2a57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NTUyMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY2ODQyNTh8&ixlib=rb-4.0.3&q=80&w=1080",
+    "short_article": "Nowy system napędowy sprawia, że podróże kosmiczne stają się bardziej wydajne i bezpieczne, otwierając drogę dla załogowych misji na Marsa.",
+    "full_article": "W przełomowym rozwoju eksploracji kosmosu naukowcy pomyślnie przetestowali nowy system napędowy, który może znacznie skrócić czas potrzebny na podróże kosmiczne. Ta przełomowa technologia wykorzystuje zaawansowane silniki plazmowe, które generują większy ciąg przy mniejszym zużyciu paliwa, co czyni dalekie podróże kosmiczne bardziej wykonalnymi. Oczekuje się, że system odegra kluczową rolę w przyszłych załogowych misjach na Marsa, umożliwiając potencjalnie ludziom dotarcie na Czerwoną Planetę w mniej niż sześć miesięcy. Eksperci są optymistyczni, że ta innowacja może również uczynić komercyjne podróże kosmiczne bardziej dostępne w nadchodzących dziesięcioleciach."
+  },
+  {
+    "id": "5",
+    "title": "Nowe badanie ujawnia tajemnice długowieczności",
+    "subtitle": "Kluczowe czynniki stylu życia sprzyjające dłuższemu i zdrowszemu życiu",
+    "image": "https://images.unsplash.com/photo-1726242881301-b83dd29f3d56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NTUyMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY2ODQyNTh8&ixlib=rb-4.0.3&q=80&w=1080",
+    "short_article": "Najnowsze badania ujawniają nawyki i styl życia najdłużej żyjących populacji na świecie, dostarczając wglądu w to, jak możemy żyć dłużej i zdrowiej.",
+    "full_article": "Kompleksowe badanie przeprowadzone przez międzynarodowy zespół badaczy rzuca światło na kluczowe czynniki wpływające na długowieczność. Badania koncentrowały się na populacjach w 'Niebieskich Strefach' — regionach, w których ludzie żyją znacznie dłużej niż średnia. Badanie wykazało, że regularna aktywność fizyczna, diety roślinne, silne więzi społeczne i zarządzanie stresem są wspólnymi cechami najdłużej żyjących osób. Dodatkowo, te populacje mają niski wskaźnik chorób przewlekłych, takich jak choroby serca i rak. Wyniki sugerują, że wprowadzenie małych, zrównoważonych zmian w stylu życia może wydłużyć życie i poprawić ogólne samopoczucie."
+  }
+]
